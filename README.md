@@ -1,2 +1,16 @@
 # alta_pp_calculator-GUI-
 This is a utility for calculating pp (ACL); it reads the ALTA database and calculates the pp a specific player would receive based on their achievements.
+
+GUIDE
+how to launch?
+1. Download alta_pp_gui.py .
+2. Create a folder and place `alta_pp_gui.py` and the ALTA lite (Base) database into it.
+3. Launch the Windows console and enter the following commands: cd "folder containing the alta_pp_gui files".
+4. Next, enter the command: `python alta_pp_gui.py` or `py alta_pp_gui.py`.
+--------------------------------------------------------------------------------------------------------------|
+ГАЙД
+как запустить?
+1.Скачайте alta_pp_gui.py .
+2.Создайте папку и переместите туда `alta_pp_gui.py` и датабазу ALTA lite.
+3.Запустите консоль винды и напишите команду: cd "папка ,где у вас alta_pp_gui.py и датабаза"
+3.Далее пропишите `python alta_pp_gui.py` или `py alta_pp_gui.py`.
